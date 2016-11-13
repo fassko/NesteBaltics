@@ -1,0 +1,15 @@
+{
+  "name": "Neste Baltics parser",
+  "version": "1.0.0",
+  "description": "Neste Baltics parser",
+  "author": "fassko@gmail.com",
+  "main": "parser.js",
+  "scripts": {
+    "start": "node parser.js"
+  },
+  "dependencies": {
+    "async": "^2.1.2",
+    "request": "^2.78.0",
+    "underscore": "^1.8.3"
+  }
+}

@@ -1,0 +1,6 @@
+framework module Pods_NesteBalticsUITests {
+  umbrella header "Pods-NesteBalticsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

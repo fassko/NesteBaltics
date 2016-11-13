@@ -1,0 +1,2937 @@
+[
+  {
+    "lat": 59.83061,
+    "lon": 30.3456,
+    "name": "Neste QS St. Petersburg, Dunajskaja",
+    "id": 1333,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.936177,
+    "lon": 23.885318,
+    "name": "Neste Kursiu",
+    "id": 1302,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.85134,
+    "lon": 30.30456,
+    "name": "Neste QS St. Petersburg, Leninskaja",
+    "id": 1332,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.94,
+    "lon": 30.24,
+    "name": "Neste St. Petersburg, Malyj pr.V.I.",
+    "id": 1325,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.67168,
+    "lon": 25.27039,
+    "name": "Neste Kauno",
+    "id": 1279,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 60.0745,
+    "lon": 30.2779,
+    "name": "Neste St. Petersburg Pargolovo",
+    "id": 1374,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.89,
+    "lon": 30.49,
+    "name": "Neste QS St. Petersburg, Telmana",
+    "id": 1339,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.24209,
+    "lon": 24.74279,
+    "name": "Neste Ukmerges",
+    "id": 1286,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.730756,
+    "lon": 24.315891,
+    "name": "Neste Babilonas",
+    "id": 1304,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 56.652,
+    "lon": 23.6899,
+    "name": "Neste Jelgava II",
+    "id": 922,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 60.12146,
+    "lon": 29.976488,
+    "name": "Neste QS St. Petersburg, Sestroretsk",
+    "id": 1362,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.92061,
+    "lon": 30.4696,
+    "name": "Neste QS St. Petersburg, Bolshevikov",
+    "id": 1335,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.935028,
+    "lon": 30.250067,
+    "name": "Neste QS Srednyj pr. V.I.",
+    "id": 1383,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.89714,
+    "lon": 30.31961,
+    "name": "Neste St. Petersburg, Moskovskije Vorota",
+    "id": 1324,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.50513,
+    "lon": 25.62482,
+    "name": "Neste Utenos",
+    "id": 1294,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.92027,
+    "lon": 23.29294,
+    "name": "Neste Geguziu",
+    "id": 1274,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 55.71705,
+    "lon": 21.15099,
+    "name": "Neste Artojo",
+    "id": 1280,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 54.916113,
+    "lon": 23.953853,
+    "name": "Neste Birzelio",
+    "id": 1313,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.30119,
+    "lon": 22.35012,
+    "name": "Neste Mazeikiai",
+    "id": 1282,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 56.115,
+    "lon": 24.47056,
+    "name": "Neste Pasvalio r.",
+    "id": 1296,
+    "fuel": {
+      "Futura 95": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 54.8756,
+    "lon": 23.89083,
+    "name": "Neste Veiveriu",
+    "id": 1275,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 54.71186,
+    "lon": 25.27071,
+    "name": "Neste Ozo",
+    "id": 1283,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 58.565416,
+    "lon": 31.579467,
+    "name": "Neste QS Novgorod-1",
+    "id": 1380,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.655041,
+    "lon": 25.270707,
+    "name": "Neste Kirtimu",
+    "id": 1316,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.719358,
+    "lon": 24.348937,
+    "name": "Neste Nemuno",
+    "id": 1306,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.8569,
+    "lon": 25.25966,
+    "name": "Neste Rimi",
+    "id": 1290,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 55.703187,
+    "lon": 21.164773,
+    "name": "Neste Sendvario",
+    "id": 1317,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.3252,
+    "lon": 24.7682,
+    "name": "Neste Luige",
+    "id": 1254,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.5603,
+    "lon": 23.36592,
+    "name": "Neste Marijampole",
+    "id": 1288,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 60.05738,
+    "lon": 30.30813,
+    "name": "Neste QS St. Petersburg, Vyborskaja",
+    "id": 1330,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.706806,
+    "lon": 25.304151,
+    "name": "Neste Minties",
+    "id": 1312,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.687931,
+    "lon": 25.263092,
+    "name": "Neste Jasinskio",
+    "id": 1300,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.83548,
+    "lon": 30.49616,
+    "name": "Neste Express St. Petersburg, Rybatskoje",
+    "id": 1351,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.670322,
+    "lon": 24.348509,
+    "name": "Neste Silagalys",
+    "id": 1319,
+    "fuel": {
+      "Futura 95": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 57.279025,
+    "lon": 25.492408,
+    "name": "Neste Bērzkrogs",
+    "id": 1681,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.901712,
+    "lon": 29.09847,
+    "name": "Neste QS Sosnovyj Bor",
+    "id": 1379,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.55,
+    "lon": 30.13,
+    "name": "Neste Express Gatchina 2 Parkovaja",
+    "id": 1357,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 59.84289,
+    "lon": 30.17683,
+    "name": "Neste QS St. Petersburg, Germana",
+    "id": 1361,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.85126,
+    "lon": 24.334,
+    "name": "Neste Salaspils",
+    "id": 925,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.916737,
+    "lon": 24.087516,
+    "name": "Neste Ģimnastikas",
+    "id": 929,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.98561,
+    "lon": 30.24797,
+    "name": "Neste Express St. Petersburg, Savushkina",
+    "id": 1327,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.931558,
+    "lon": 23.951101,
+    "name": "Neste Islandijos",
+    "id": 1303,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.99308,
+    "lon": 30.20769,
+    "name": "Neste QS St. Petersburg, Primorskaja",
+    "id": 1329,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.3297,
+    "lon": 23.14973,
+    "name": "Neste Kalvarijos 1",
+    "id": 1295,
+    "fuel": {
+      "Futura 95": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.96792,
+    "lon": 30.35057,
+    "name": "Neste Express St. Petersburg, Lesnaja",
+    "id": 1349,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.71187,
+    "lon": 25.29303,
+    "name": "Neste Luksio",
+    "id": 1293,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.705196,
+    "lon": 25.214915,
+    "name": "Neste Virsuliskiu",
+    "id": 1308,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.81916,
+    "lon": 30.32473,
+    "name": "Neste QS St. Petersburg, Pulkovo",
+    "id": 1328,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.929179,
+    "lon": 23.294204,
+    "name": "Neste Dubijos",
+    "id": 1314,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.90927,
+    "lon": 30.42679,
+    "name": "Neste QS St. Petersburg, Oktyabrskaja",
+    "id": 1331,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 57.79,
+    "lon": 28.42,
+    "name": "Neste QS Pskov Leningradskaja",
+    "id": 1392,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 54.906896,
+    "lon": 23.872802,
+    "name": "Neste Raudondvario",
+    "id": 1307,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.168842,
+    "lon": 30.357306,
+    "name": "Neste QS Priozerskaja",
+    "id": 1382,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.89509,
+    "lon": 23.98582,
+    "name": "Neste Kalantos",
+    "id": 1284,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.3997,
+    "lon": 24.1772,
+    "name": "Neste Bauska II",
+    "id": 914,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.03272,
+    "lon": 30.363,
+    "name": "Neste QS St. Petersburg, Severnaja",
+    "id": 1334,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 57.07,
+    "lon": 24.32,
+    "name": "Neste Ādaži",
+    "id": 926,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.82607,
+    "lon": 30.18559,
+    "name": "Neste QS St. Petersburg, Avangardnaja",
+    "id": 1326,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.6846,
+    "lon": 21.1501,
+    "name": "Neste Minijos",
+    "id": 1273,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.64817,
+    "lon": 25.21229,
+    "name": "Neste Savanoriu 2",
+    "id": 1281,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.670131,
+    "lon": 21.193012,
+    "name": "Neste Smilteles",
+    "id": 1305,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.335098,
+    "lon": 23.157781,
+    "name": "Neste Kalvarijos 2",
+    "id": 1315,
+    "fuel": {
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.03,
+    "lon": 30.63,
+    "name": "Neste QS Vsevolozsk 2",
+    "id": 1389,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 54.727895,
+    "lon": 25.235538,
+    "name": "Neste Pasilaiciu",
+    "id": 1309,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.706726,
+    "lon": 21.238282,
+    "name": "Neste Jaku",
+    "id": 1318,
+    "fuel": {
+      "Futura 95": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.72776,
+    "lon": 24.34855,
+    "name": "Neste Klaipedos",
+    "id": 1276,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.8526,
+    "lon": 30.1062,
+    "name": "Neste Strelna",
+    "id": 1378,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.70148,
+    "lon": 25.26373,
+    "name": "Neste Oil Saltoniskiu",
+    "id": 1298,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.55,
+    "lon": 30.1,
+    "name": "Neste Gatchina 1",
+    "id": 1391,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 59.95283,
+    "lon": 30.43579,
+    "name": "Neste Express St. Petersburg, Energetikov",
+    "id": 1348,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.90555,
+    "lon": 30.41899,
+    "name": "Neste Express St. Petersburg, Obuhovskaja",
+    "id": 1350,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 60.01494,
+    "lon": 30.43282,
+    "name": "Neste Express St. Petersburg, Rustaveli",
+    "id": 1343,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.37623,
+    "lon": 28.22483,
+    "name": "Neste QS Ivangorod",
+    "id": 1363,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.92556,
+    "lon": 23.89178,
+    "name": "Neste Zemaiciu",
+    "id": 1278,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.38743,
+    "lon": 24.02632,
+    "name": "Neste Alytaus",
+    "id": 1289,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 58.54,
+    "lon": 31.32,
+    "name": "Neste QS Novgorod Derzhavina",
+    "id": 1393,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 55.27802,
+    "lon": 23.9602,
+    "name": "Neste Kedainiai",
+    "id": 1285,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.87873,
+    "lon": 30.39764,
+    "name": "Neste QS St. Petersburg, Sofijskaja",
+    "id": 1336,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.5211,
+    "lon": 22.3664,
+    "name": "Neste Silales r.",
+    "id": 1297,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.9306,
+    "lon": 30.39994,
+    "name": "Neste QS St. Petersburg, Maloohtinskaja",
+    "id": 1338,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.912136,
+    "lon": 23.972614,
+    "name": "Neste Taikos ziedo",
+    "id": 1301,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.676843,
+    "lon": 25.309541,
+    "name": "Neste Subaciaus",
+    "id": 1311,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 55.90599,
+    "lon": 23.33216,
+    "name": "Neste Tilzes",
+    "id": 1277,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.710893,
+    "lon": 25.240441,
+    "name": "Neste Buivydiskiu",
+    "id": 1310,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 57.838502,
+    "lon": 28.307605,
+    "name": "Neste QS Pskov 2",
+    "id": 1388,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 60.7141,
+    "lon": 28.74877,
+    "name": "Neste QS Vyborg",
+    "id": 1358,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 55.69311,
+    "lon": 21.17505,
+    "name": "Neste Baltijos pr.",
+    "id": 1264,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.3909,
+    "lon": 27.7754,
+    "name": "Neste Sillamäe",
+    "id": 1248,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.6049,
+    "lon": 24.2082,
+    "name": "Neste Iecava",
+    "id": 908,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.9707,
+    "lon": 23.1572,
+    "name": "Neste Tukums",
+    "id": 900,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 60.01147,
+    "lon": 30.27649,
+    "name": "Neste QS St. Petersburg, Koroleva",
+    "id": 1342,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.94533,
+    "lon": 30.47999,
+    "name": "Neste QS St. Petersburg, Kosygina",
+    "id": 1360,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.95397,
+    "lon": 24.06909,
+    "name": "Neste Daugavgrīvas",
+    "id": 881,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.89278,
+    "lon": 30.65658,
+    "name": "Neste QS Razmetelevo 2",
+    "id": 1372,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.951,
+    "lon": 24.1746,
+    "name": "Neste Deglava",
+    "id": 895,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 56.9102,
+    "lon": 24.0871,
+    "name": "Neste Vienības Gatve",
+    "id": 883,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 57.81,
+    "lon": 28.27,
+    "name": "Neste Pskov Rizhskaja",
+    "id": 1390,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1"
+    }
+  },
+  {
+    "lat": 56.953225,
+    "lon": 21.991493,
+    "name": "Neste Kuldīga DP",
+    "id": 928,
+    "fuel": {
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura Diesel"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.3457,
+    "lon": 26.3671,
+    "name": "Neste Rakvere",
+    "id": 1236,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.92501,
+    "lon": 24.11073,
+    "name": "Neste Lucavsala",
+    "id": 877,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.0830482,
+    "lon": 29.9567499,
+    "name": "Neste Express Sestroretsk 2",
+    "id": 1355,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.68162,
+    "lon": 25.19849,
+    "name": "Neste Lazdynu",
+    "id": 1261,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.4014,
+    "lon": 24.8128,
+    "name": "Neste Tallinn Peetri",
+    "id": 1255,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.98651,
+    "lon": 30.36157,
+    "name": "Neste QS St. Petersburg, Bluhera",
+    "id": 1341,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.5164,
+    "lon": 27.3373,
+    "name": "Neste Rēzekne",
+    "id": 904,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 57.532,
+    "lon": 25.4285,
+    "name": "Neste Valmiera II",
+    "id": 898,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 56.5114,
+    "lon": 21.018,
+    "name": "Neste Liepāja II",
+    "id": 918,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 56.9641,
+    "lon": 23.6037,
+    "name": "Neste Kauguri",
+    "id": 907,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 56.92642,
+    "lon": 24.03906,
+    "name": "Neste Mārupe",
+    "id": 878,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 57.4297,
+    "lon": 27.039,
+    "name": "Neste Alūksne",
+    "id": 923,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.92819,
+    "lon": 24.05197,
+    "name": "Neste Ulmaņa",
+    "id": 880,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 58.731976,
+    "lon": 29.881229,
+    "name": "Neste QS Luga",
+    "id": 1386,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.72187,
+    "lon": 25.25572,
+    "name": "Neste Staneviciaus",
+    "id": 1287,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.980026,
+    "lon": 30.384524,
+    "name": "Neste QS Laboratornaja 2",
+    "id": 1384,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4431,
+    "lon": 24.8651,
+    "name": "Neste Tallinn Mustakivi",
+    "id": 1249,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 55.68894,
+    "lon": 21.15512,
+    "name": "Neste Taikos",
+    "id": 1271,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.8134,
+    "lon": 30.173,
+    "name": "Neste St. Petersburg Tallinskaja",
+    "id": 1375,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.3823,
+    "lon": 28.169,
+    "name": "Neste Narva",
+    "id": 1210,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.959,
+    "lon": 24.2308,
+    "name": "Neste Biķernieku",
+    "id": 894,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.9518,
+    "lon": 24.0349,
+    "name": "Neste Imanta",
+    "id": 1395,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 59.99512,
+    "lon": 30.40756,
+    "name": "Neste Express St. Petersburg, Nepokorennyh",
+    "id": 1344,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.5182,
+    "lon": 25.8521,
+    "name": "Neste Jēkabpils II",
+    "id": 906,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.4625,
+    "lon": 24.8264,
+    "name": "Neste Tallinn Pirita",
+    "id": 1207,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.4966,
+    "lon": 25.8784,
+    "name": "Neste Jēkabpils",
+    "id": 905,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 56.88,
+    "lon": 24.23,
+    "name": "Neste Maskavas DP",
+    "id": 1205,
+    "fuel": {
+      "AdBlue": "1"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.669445,
+    "lon": 28.887926,
+    "name": "Neste QS Skandinavija",
+    "id": 1377,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.98,
+    "lon": 24.1154,
+    "name": "Neste Ganību",
+    "id": 890,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.88143,
+    "lon": 30.32126,
+    "name": "Neste QS St. Petersburg, Elektrosila",
+    "id": 1337,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.83,
+    "lon": 24.23,
+    "name": "Neste Ķekava",
+    "id": 927,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.96,
+    "lon": 24.11,
+    "name": "Neste Skanstes",
+    "id": 1201,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.4098,
+    "lon": 27.3099,
+    "name": "Neste Kohtla D-point",
+    "id": 1247
+  },
+  {
+    "lat": 59.621932,
+    "lon": 30.183886,
+    "name": "Neste QS Verevo 2",
+    "id": 1373,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.9645,
+    "lon": 24.1679,
+    "name": "Neste Stārķu",
+    "id": 1396,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 59.74927,
+    "lon": 30.3134,
+    "name": "Neste QS St.Petersburg Pulkovo2",
+    "id": 1381,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.791396,
+    "lon": 23.946845,
+    "name": "Neste Olaine",
+    "id": 930,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.8794,
+    "lon": 26.5415,
+    "name": "Neste Daugavpils I",
+    "id": 1394,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 58.3619,
+    "lon": 26.6754,
+    "name": "Neste Tartu Lõunakeskus",
+    "id": 1250,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.64407,
+    "lon": 25.20717,
+    "name": "Neste Savanoriu 1",
+    "id": 1270,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.89278,
+    "lon": 30.65658,
+    "name": "Neste QS Razmetelevo 1",
+    "id": 1371,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.75495,
+    "lon": 25.27136,
+    "name": "Neste Moletu",
+    "id": 1291,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.9477,
+    "lon": 24.1258,
+    "name": "Neste Dzirnavu",
+    "id": 896,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 56.9881,
+    "lon": 24.1305,
+    "name": "Neste Duntes",
+    "id": 882,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 56.6111999,
+    "lon": 24.5149661,
+    "name": "Neste Vecumnieki",
+    "id": 931,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.5153,
+    "lon": 21.0144,
+    "name": "Neste Liepāja I",
+    "id": 1204,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 57.3157,
+    "lon": 25.2793,
+    "name": "Neste Cēsis I",
+    "id": 899,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 58.3787,
+    "lon": 25.5955,
+    "name": "Neste Viljandi Tallinna mnt",
+    "id": 1217,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.9668,
+    "lon": 21.9573,
+    "name": "Neste Kuldīga",
+    "id": 917,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 57.7779,
+    "lon": 26.0271,
+    "name": "Neste Valga",
+    "id": 1241,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4135,
+    "lon": 24.7074,
+    "name": "Neste Tallinn Sõpruse 2",
+    "id": 1245,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 57.3964,
+    "lon": 21.5923,
+    "name": "Neste Ventspils II",
+    "id": 919,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.4273,
+    "lon": 24.7706,
+    "name": "Neste Tallinn Juhkentali",
+    "id": 1230,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 55.8652,
+    "lon": 26.5018,
+    "name": "Neste Daugavpils II",
+    "id": 913,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 60.02255,
+    "lon": 30.40905,
+    "name": "Neste QS St. Petersburg, Grazhdanskaja",
+    "id": 1340,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4273,
+    "lon": 24.6608,
+    "name": "Neste Tallinn Rocca al Mare",
+    "id": 1209,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3573,
+    "lon": 25.5834,
+    "name": "Neste Viljandi Männimäe",
+    "id": 1251,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.978675,
+    "lon": 30.382798,
+    "name": "Neste Express Laboratornaja 1 ",
+    "id": 1356,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 58.3635,
+    "lon": 24.5615,
+    "name": "Neste Pärnu Riia mnt",
+    "id": 1211,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.6668,
+    "lon": 22.4954,
+    "name": "Neste Saldus II",
+    "id": 921,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 59.4187,
+    "lon": 24.6936,
+    "name": "Neste Tallinn Mustamäe tee",
+    "id": 1214,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.8883,
+    "lon": 30.42152,
+    "name": "Neste Express St. Petersburg, Sedova",
+    "id": 1352,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.53,
+    "lon": 21.03,
+    "name": "Neste Liepāja III",
+    "id": 1200,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.4114,
+    "lon": 24.6645,
+    "name": "Neste Tallinn Kadaka",
+    "id": 1219,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.31984,
+    "lon": 24.39592,
+    "name": "Neste Keila D-point",
+    "id": 1244
+  },
+  {
+    "lat": 59.8658,
+    "lon": 30.45363,
+    "name": "Neste Express St. Petersburg, Babushkina",
+    "id": 1345,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.968,
+    "lon": 24.1461,
+    "name": "Neste Senču",
+    "id": 888,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 59.4204,
+    "lon": 24.7921,
+    "name": "Neste Tallinn Ülemiste",
+    "id": 1235,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 57.1748,
+    "lon": 26.7471,
+    "name": "Neste Gulbene",
+    "id": 920,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.5052,
+    "lon": 24.8294,
+    "name": "Neste Viimsi",
+    "id": 1240,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.91336,
+    "lon": 23.91184,
+    "name": "Neste Jonavos",
+    "id": 1269,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 58.3739,
+    "lon": 26.7498,
+    "name": "Neste Tartu Anne",
+    "id": 1227,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.9752,
+    "lon": 23.8574,
+    "name": "Neste Jūrmala",
+    "id": 887,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 60.156006,
+    "lon": 30.286528,
+    "name": "Neste QS Luppolovo",
+    "id": 1370,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.5164,
+    "lon": 27.3373,
+    "name": "Neste Rēzekne DP",
+    "id": 1497,
+    "fuel": {
+      "AdBlue": "1",
+      "Tuotteisto": "Futura Dīzeļdegviela"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.12,
+    "lon": 31.64,
+    "name": "Neste QS Chudovo",
+    "id": 1376,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 57.5319,
+    "lon": 25.3933,
+    "name": "Neste Valmiera I",
+    "id": 897,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 59.907989,
+    "lon": 30.30405,
+    "name": "Neste Express St. Petersburg, Obvodnyj",
+    "id": 1353,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.680765,
+    "lon": 25.207598,
+    "name": "Neste Architektu",
+    "id": 1299,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 56.8975,
+    "lon": 24.2106,
+    "name": "Neste Maskavas",
+    "id": 885,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.991385,
+    "lon": 30.659111,
+    "name": "Neste QS Koltushi",
+    "id": 1369,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 56.98,
+    "lon": 24.19,
+    "name": "Neste Teika",
+    "id": 1202,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 59.95878,
+    "lon": 30.47614,
+    "name": "Neste Experss St. Petersburg, Irinovskaja",
+    "id": 1346,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.92622,
+    "lon": 24.0603,
+    "name": "Neste Ateities",
+    "id": 1292,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.93,
+    "lon": 24.1544,
+    "name": "Neste Krasta",
+    "id": 886,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.6831,
+    "lon": 22.4769,
+    "name": "Neste Saldus I",
+    "id": 924,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 60.02193,
+    "lon": 30.22355,
+    "name": "Neste QS St. Petersburg, Planernaja",
+    "id": 1366,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.36,
+    "lon": 24.6309,
+    "name": "Neste Tallinn Laagri",
+    "id": 1213,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.3754,
+    "lon": 24.7183,
+    "name": "Neste Tallinn Männiku",
+    "id": 1223,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.4022,
+    "lon": 24.73,
+    "name": "Neste Tallinn Järve",
+    "id": 1208,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3558,
+    "lon": 26.7222,
+    "name": "Neste Tartu Aardla",
+    "id": 1231,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.3645,
+    "lon": 27.399,
+    "name": "Neste Jõhvi",
+    "id": 1243,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.6229,
+    "lon": 30.1821,
+    "name": "Neste QS Verevo 1",
+    "id": 1367,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4508,
+    "lon": 24.8611,
+    "name": "Neste Tallinn Läänemere",
+    "id": 1226,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.931,
+    "lon": 24.0341,
+    "name": "Neste Lielirbes",
+    "id": 889,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 58.9888,
+    "lon": 22.7647,
+    "name": "Neste Hiiumaa",
+    "id": 1256,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 55.72844,
+    "lon": 24.33216,
+    "name": "Neste IKI",
+    "id": 1268,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.91,
+    "lon": 23.6441,
+    "name": "Neste Pramones",
+    "id": 1266,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 56.9618336,
+    "lon": 24.0356025,
+    "name": "Neste Imanta II",
+    "id": 932,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 57.8493,
+    "lon": 24.3532,
+    "name": "Neste Ainaži",
+    "id": 915,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.940759,
+    "lon": 24.138073,
+    "name": "Neste Katoļu",
+    "id": 933,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1"
+    }
+  },
+  {
+    "lat": 59.4296,
+    "lon": 24.7003,
+    "name": "Neste Tallinn Merimetsa",
+    "id": 1233,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.9309,
+    "lon": 24.1841,
+    "name": "Neste Lubānas",
+    "id": 884,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.8603,
+    "lon": 26.2274,
+    "name": "Neste Madona",
+    "id": 911,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 58.262,
+    "lon": 22.5056,
+    "name": "Neste Kuressaare",
+    "id": 1242,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 54.67352,
+    "lon": 25.2241,
+    "name": "Neste Litexpo",
+    "id": 1272,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.781087,
+    "lon": 30.326693,
+    "name": "Neste QS St.Petersburg  Pulkovskaja 3",
+    "id": 1385,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4282,
+    "lon": 24.7315,
+    "name": "Neste Tallinn Suur-Ameerika",
+    "id": 1229,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3752,
+    "lon": 26.6785,
+    "name": "Neste Tartu Ringtee",
+    "id": 1212,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4112,
+    "lon": 24.8556,
+    "name": "Neste Tallinn Suur-Sõjamäe D-point",
+    "id": 1246,
+    "fuel": {
+      "Tuotteisto": "AdBlue"
+    }
+  },
+  {
+    "lat": 58.9005,
+    "lon": 25.6356,
+    "name": "Neste Mäo",
+    "id": 1252,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3919,
+    "lon": 24.4947,
+    "name": "Neste Pärnu Jannseni",
+    "id": 1232,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 57.8359,
+    "lon": 27.0094,
+    "name": "Neste Võru",
+    "id": 1238,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.84287,
+    "lon": 30.39336,
+    "name": "Neste Express St. Petersburg, Budapeshtskaja",
+    "id": 1347,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 57.2433,
+    "lon": 22.5823,
+    "name": "Neste Talsi",
+    "id": 916,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 57.83,
+    "lon": 28.29,
+    "name": "Neste Express Pskov Chudskaja",
+    "id": 1354,
+    "fuel": {
+      "Futura 95": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4027,
+    "lon": 24.7127,
+    "name": "Neste Tallinn Tondi",
+    "id": 1224,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4123,
+    "lon": 24.7077,
+    "name": "Neste Tallinn Sõpruse",
+    "id": 1225,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 54.71554,
+    "lon": 25.22902,
+    "name": "Neste Justiniskiu",
+    "id": 1265,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 57.1421,
+    "lon": 24.8436,
+    "name": "Neste Sigulda",
+    "id": 910,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 58.247789,
+    "lon": 32.553625,
+    "name": "Neste QS Krestsy",
+    "id": 1365,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 54.72187,
+    "lon": 25.25572,
+    "name": "Neste Zirmunu",
+    "id": 1263,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.798822,
+    "lon": 30.401609,
+    "name": "Neste St. Petersburg Shushary",
+    "id": 1368,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.99145,
+    "lon": 32.6593,
+    "name": "Neste QS Vsevolozsk 1",
+    "id": 1364,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.4346,
+    "lon": 24.8317,
+    "name": "Neste Tallinn Smuuli",
+    "id": 1221,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3845,
+    "lon": 26.7267,
+    "name": "Neste Tartu Narva mnt",
+    "id": 1239,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 59.4372,
+    "lon": 24.8743,
+    "name": "Neste Tallinn Peterburi tee",
+    "id": 1228,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.9254,
+    "lon": 23.546,
+    "name": "Neste Haapsalu",
+    "id": 1218,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.808802,
+    "lon": 30.456623,
+    "name": "Neste QS St.Peyersburg Sofijskaja 2",
+    "id": 1387,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 59.0106,
+    "lon": 24.7973,
+    "name": "Neste Rapla",
+    "id": 1216,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 55.70989,
+    "lon": 24.37471,
+    "name": "Neste Ramygalos",
+    "id": 1267,
+    "fuel": {
+      "Futura 95": "1",
+      "Tuotteisto": "Futura 95"
+    }
+  },
+  {
+    "lat": 56.66,
+    "lon": 23.7,
+    "name": "Neste Jelgava DP",
+    "id": 1199,
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.9783,
+    "lon": 24.1821,
+    "name": "Neste Brīvības",
+    "id": 891,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 60.37,
+    "lon": 28.1,
+    "name": "Neste QS Kondratjevo",
+    "id": 1359,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Diesel": "1",
+      "Tuotteisto": "BE 98E+ Futura, BE Futura 95E, BE 92, Diesel"
+    }
+  },
+  {
+    "lat": 57.3876,
+    "lon": 21.5817,
+    "name": "Neste Ventspils",
+    "id": 903,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 56.67051,
+    "lon": 23.76156,
+    "name": "Neste Jelgava",
+    "id": 879,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1",
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 55.67329,
+    "lon": 21.20145,
+    "name": "Neste Silutes",
+    "id": 1262,
+    "fuel": {
+      "Futura 95": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.98644,
+    "lon": 24.21978,
+    "name": "Neste Jugla",
+    "id": 876,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Uzpilde kravas automašīnām": "1"
+    }
+  },
+  {
+    "lat": 56.8126,
+    "lon": 24.601,
+    "name": "Neste Ogre",
+    "id": 901,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    },
+    "other": {
+      "Gaiss": "1"
+    }
+  },
+  {
+    "lat": 59.31392,
+    "lon": 24.422,
+    "name": "Neste Keila Piiri",
+    "id": 1253,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 56.4066,
+    "lon": 24.1887,
+    "name": "Neste Bauska I",
+    "id": 909,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95E, Futura Diesel, Futura 98E+"
+    }
+  },
+  {
+    "lat": 59.4229,
+    "lon": 24.6993,
+    "name": "Neste Tallinn Marja",
+    "id": 1215,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4381,
+    "lon": 24.7084,
+    "name": "Neste Tallinn Sõle",
+    "id": 1222,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 58.3392,
+    "lon": 26.7093,
+    "name": "Neste Ropka",
+    "id": 1257,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "AdBlue": "1",
+      "Tuotteisto": "AdBlue, Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.446,
+    "lon": 24.8973,
+    "name": "Neste Tallinn Laagna",
+    "id": 1237,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4444,
+    "lon": 24.7436,
+    "name": "Neste Tallinn Põhja pst",
+    "id": 1234,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  },
+  {
+    "lat": 59.4268,
+    "lon": 24.8229,
+    "name": "Neste Tallinn Vesse",
+    "id": 1220,
+    "fuel": {
+      "Futura 95": "1",
+      "Futura 98": "1",
+      "Tuotteisto": "Futura 95, Futura 98"
+    }
+  }
+]
