@@ -8,6 +8,7 @@ target 'NesteBaltics' do
   pod 'GooglePlaces'
   pod 'Fabric'
   pod 'Crashlytics'
+  pod 'SwiftyJSON'
 
   target 'NesteBalticsTests' do
     inherit! :search_paths

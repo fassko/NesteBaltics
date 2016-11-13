@@ -4,7 +4,7 @@ var async = require('async');
 var _ = require('underscore');
 
 var fs = require('fs');
-var json = JSON.parse(fs.readFileSync('data.json', 'utf8'));
+var json = JSON.parse(fs.readFileSync('raw_data.json', 'utf8'));
 
 var tmpData = [];
 var data = [];
@@ -54,9 +54,9 @@ async.each(tmpData, function(s, callback) {
     console.log("ERR");
     console.log(err);
   } else {
-    var file = 'tmp_data.json';
+    var file = 'data.json';
      
-    jsonfile.writeFile(file, data, {spaces: 2}, function (err) {
+    jsonfile.writeFile(file, {"stations": data}, {spaces: 2}, function (err) {
       if (err) {
         console.error(err);
       }

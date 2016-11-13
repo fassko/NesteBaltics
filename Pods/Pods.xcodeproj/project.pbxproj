@@ -7,69 +7,91 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		036F1F6A2E2D550C24BAFEB9180CA471 /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D660F7D1C38CFD8EAC82D078BB3BAC /* SwiftyJSON-dummy.m */; };
 		0C976F12C1A50DD4C649DA161BA50553 /* Pods-NesteBalticsTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DA00B69C79AA4CAE66A8FC7CEC0F7F64 /* Pods-NesteBalticsTests-dummy.m */; };
-		541DC8FB37A8A84A81E7DD37EDCB7375 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		16FAA23F1EB9460240EA8EB2033A9A00 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C754E8050D4897759F9619522F149F8 /* SwiftyJSON.swift */; };
+		68FC3851117D5A65A6B26B57C0EB8A56 /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E03B514E66913AA3AD6DA79A667B5FE2 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		78A8CD2F88EB3F08E3B944400FB63631 /* Pods-NesteBaltics-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BC32FF074B4F82069243806AB0262135 /* Pods-NesteBaltics-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		997DF4B81738B3855DC08ABAC551D002 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		BFF1737BF0889D68E08868B719DBFC1B /* Pods-NesteBaltics-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BC32FF074B4F82069243806AB0262135 /* Pods-NesteBaltics-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5EC01E53265D573EFD12ADA1F34DFD3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		C7EA8452C6761D3B1892E06C98C1DF52 /* Pods-NesteBaltics-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CFDD5CF8E7B935AC9049FC069FAFEB /* Pods-NesteBaltics-dummy.m */; };
 		CCD2E3D3C8F04C7225C952B645C27860 /* Pods-NesteBalticsUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 423D9BBC0C0292B3B8CB582DF3813648 /* Pods-NesteBalticsUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2B2C00D64A04254883860EE35572620 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		DDE9D67459EECCD9CF29E91A0542F5D2 /* Pods-NesteBaltics-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CFDD5CF8E7B935AC9049FC069FAFEB /* Pods-NesteBaltics-dummy.m */; };
 		E198E4C2E38ACC6B7730ADB7C4A0341D /* Pods-NesteBalticsUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E22465BAACE9125E5B8A1B9A75AF9 /* Pods-NesteBalticsUITests-dummy.m */; };
 		EE2E58D451806A461DBD91986BC1B4C7 /* Pods-NesteBalticsTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0950DF1FF8A6672BF57F6B96E72F89DC /* Pods-NesteBalticsTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F7DE3E1B9C3E0E3076B4E0A28319877F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CD6C463B905865FD946BDFC23408DB96 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ED9115C5F7264774AE1B5F26B161866D;
+			remoteInfo = SwiftyJSON;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		00CFDD5CF8E7B935AC9049FC069FAFEB /* Pods-NesteBaltics-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NesteBaltics-dummy.m"; sourceTree = "<group>"; };
 		0419FBBB8D7EE482A28422F2FAF9440E /* Pods-NesteBaltics-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBaltics-resources.sh"; sourceTree = "<group>"; };
-		075A48FFF0DADC8D56ACF51BE14691BC /* CLSReport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSReport.h; path = iOS/Crashlytics.framework/Headers/CLSReport.h; sourceTree = "<group>"; };
 		0950DF1FF8A6672BF57F6B96E72F89DC /* Pods-NesteBalticsTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NesteBalticsTests-umbrella.h"; sourceTree = "<group>"; };
 		0E8161FB46402124132F33B7163EB349 /* Pods-NesteBalticsUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBalticsUITests-resources.sh"; sourceTree = "<group>"; };
-		14E0F5F25BC451C03CB0F916F78F6FD4 /* Fabric.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Fabric.h; path = iOS/Fabric.framework/Headers/Fabric.h; sourceTree = "<group>"; };
+		17D70CFF7FE1D193A05DF55144A5A71F /* Pods_NesteBaltics.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBaltics.framework; path = "Pods-NesteBaltics.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1880C993876F43C6776AC058AB871BB9 /* Answers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Answers.h; path = iOS/Crashlytics.framework/Headers/Answers.h; sourceTree = "<group>"; };
 		188E22465BAACE9125E5B8A1B9A75AF9 /* Pods-NesteBalticsUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NesteBalticsUITests-dummy.m"; sourceTree = "<group>"; };
-		1931F896E86F32A73B4456F1D81C9056 /* CLSStackFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSStackFrame.h; path = iOS/Crashlytics.framework/Headers/CLSStackFrame.h; sourceTree = "<group>"; };
-		1BED4FE17992B8F7C923ADC3E52B8928 /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Fabric.framework; path = iOS/Fabric.framework; sourceTree = "<group>"; };
+		189E4D168DBE749B256B0CE280DD5B5F /* CLSStackFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSStackFrame.h; path = iOS/Crashlytics.framework/Headers/CLSStackFrame.h; sourceTree = "<group>"; };
+		1953E373F59949192508CF544C2FA7F5 /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Fabric.framework; path = iOS/Fabric.framework; sourceTree = "<group>"; };
 		1F7C2A5FE120FBA49A88961C492BD53C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		204BDF69FF1BF0EA79C96CD3FA1D9A10 /* Pods-NesteBalticsTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBalticsTests-resources.sh"; sourceTree = "<group>"; };
 		423D9BBC0C0292B3B8CB582DF3813648 /* Pods-NesteBalticsUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NesteBalticsUITests-umbrella.h"; sourceTree = "<group>"; };
+		4C754E8050D4897759F9619522F149F8 /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
 		4CD22644C196B10A8667CC0A81510FEF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5450CC0CBE68FA148D9F98773FE30EDC /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
+		4E0FE2E7893CFF7120A3D3B568C89851 /* Fabric.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Fabric.h; path = iOS/Fabric.framework/Headers/Fabric.h; sourceTree = "<group>"; };
 		55163C7EF98F571B3070EEEC4A2C7C12 /* Pods-NesteBaltics-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NesteBaltics-acknowledgements.markdown"; sourceTree = "<group>"; };
 		56633897CBCD94E87C4058377BD6CAB1 /* Pods-NesteBaltics.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBaltics.release.xcconfig"; sourceTree = "<group>"; };
-		5990389BF5B1ED0004195CF5F76D60FE /* ANSCompatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ANSCompatibility.h; path = iOS/Crashlytics.framework/Headers/ANSCompatibility.h; sourceTree = "<group>"; };
+		57FC53C49BF928523FB58B08B7373584 /* GooglePlaces.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GooglePlaces.bundle; path = Frameworks/GooglePlaces.framework/Versions/A/Resources/GooglePlaces.bundle; sourceTree = "<group>"; };
 		5BF864EB0AD39CEA9502BD326473B495 /* Pods-NesteBaltics.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBaltics.debug.xcconfig"; sourceTree = "<group>"; };
 		5E9E76F4B423D296BF3AD42E5F51529D /* Pods-NesteBalticsUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NesteBalticsUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		60259730F1E1C53EF6B85AD7A3DFF7E1 /* Pods_NesteBalticsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBalticsTests.framework; path = "Pods-NesteBalticsTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		625D64347692645170E929FC852C8A2E /* CLSAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSAttributes.h; path = iOS/Crashlytics.framework/Headers/CLSAttributes.h; sourceTree = "<group>"; };
-		64B0C8AFFFD3DD17BD073BBD2BA8C25B /* Pods_NesteBaltics.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBaltics.framework; path = "Pods-NesteBaltics.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65AC88FC5F82B36ACE78F5474B6872EB /* Pods-NesteBalticsUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBalticsUITests-frameworks.sh"; sourceTree = "<group>"; };
-		6EEF4F66A1986D978F8D7E30B20F3261 /* GoogleMapsBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsBase.framework; path = Base/Frameworks/GoogleMapsBase.framework; sourceTree = "<group>"; };
-		71B766AB406807BD42C2140A75F69795 /* FABAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FABAttributes.h; path = iOS/Fabric.framework/Headers/FABAttributes.h; sourceTree = "<group>"; };
-		75E427567B109A7640E193BF3119FA78 /* GoogleMapsCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsCore.framework; path = Maps/Frameworks/GoogleMapsCore.framework; sourceTree = "<group>"; };
+		68D660F7D1C38CFD8EAC82D078BB3BAC /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		71A85185EFFE580723C7C5F3E6E0F6D7 /* CLSReport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSReport.h; path = iOS/Crashlytics.framework/Headers/CLSReport.h; sourceTree = "<group>"; };
 		78F97C71C47E2342494F4AD56ED12ECA /* Pods-NesteBalticsTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NesteBalticsTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		7928FD78045F27EAF45464772B8C2DCB /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
+		7AC1DBD63F988E1FDA215FF6C32B0B11 /* CLSAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSAttributes.h; path = iOS/Crashlytics.framework/Headers/CLSAttributes.h; sourceTree = "<group>"; };
+		7C2908718250E9A8C4E9BF61EAA8C31A /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Crashlytics.framework; path = iOS/Crashlytics.framework; sourceTree = "<group>"; };
+		7E001A1A97A4D731990F14404DAD859F /* Pods_NesteBalticsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBalticsUITests.framework; path = "Pods-NesteBalticsUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		808F7C1E565F2BFF3BF97622C71BF991 /* GooglePlaces.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlaces.framework; path = Frameworks/GooglePlaces.framework; sourceTree = "<group>"; };
+		82AF205B217938A5650724768425C618 /* GoogleMapsCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsCore.framework; path = Maps/Frameworks/GoogleMapsCore.framework; sourceTree = "<group>"; };
 		8A0482C8343B2827013FB0FCAABEE33C /* Pods-NesteBalticsTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBalticsTests-frameworks.sh"; sourceTree = "<group>"; };
+		8BBE31CA011E43316BACE6CD9F67B320 /* Pods_NesteBalticsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBalticsTests.framework; path = "Pods-NesteBalticsTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		92574397B0DE49D7656DD82DA91F66C8 /* GoogleMapsBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsBase.framework; path = Base/Frameworks/GoogleMapsBase.framework; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		941545F22D61C69F9042B7673BAE7D5E /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Crashlytics.framework; path = iOS/Crashlytics.framework; sourceTree = "<group>"; };
 		9A37FBB8F7AC046C3BCFB756EA9D4AA5 /* Pods-NesteBaltics-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NesteBaltics-frameworks.sh"; sourceTree = "<group>"; };
 		9AEB18FCC536A3056105B0FCE5A8E90F /* Pods-NesteBalticsUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-NesteBalticsUITests.modulemap"; sourceTree = "<group>"; };
 		A12F27C4498D760C6C836B1360F5FA68 /* Pods-NesteBalticsTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NesteBalticsTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A5B10AD7BE1BC98C18DA2C032EC778BD /* Pods-NesteBaltics-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NesteBaltics-acknowledgements.plist"; sourceTree = "<group>"; };
-		AB41ECDE23A41F1DA5602B9E07199A1A /* Pods_NesteBalticsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NesteBalticsUITests.framework; path = "Pods-NesteBalticsUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABD4490FFDC8C879E66C18CEA1886AE5 /* Crashlytics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Crashlytics.h; path = iOS/Crashlytics.framework/Headers/Crashlytics.h; sourceTree = "<group>"; };
-		ACC3D95F94F7011467DE6B5BC620A84F /* GooglePlaces.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlaces.framework; path = Frameworks/GooglePlaces.framework; sourceTree = "<group>"; };
+		AB4110417B45E80E04D0322425380C75 /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
 		B18D0DA42164C51FC79B945AE9B62383 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B5A63728EC3DE3F47E9DCB47275DCC99 /* Answers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Answers.h; path = iOS/Crashlytics.framework/Headers/Answers.h; sourceTree = "<group>"; };
+		B3612D8054332746B00B3FE8214D59DA /* FABAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FABAttributes.h; path = iOS/Fabric.framework/Headers/FABAttributes.h; sourceTree = "<group>"; };
+		B689111D89E163E4958D01287B6608FF /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON.framework; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6E98BC74FA58C67F81088946438F5B3 /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
 		B92E798AF3A954CD9CC9500871FFA5D8 /* Pods-NesteBalticsUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NesteBalticsUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		BAD3D9DE1F3BE6FCCC2C8F838A176B40 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = Maps/Frameworks/GoogleMaps.framework; sourceTree = "<group>"; };
 		BC32FF074B4F82069243806AB0262135 /* Pods-NesteBaltics-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NesteBaltics-umbrella.h"; sourceTree = "<group>"; };
-		C2723A0E9B3B8FE4DAD2F2554DCDFBB9 /* CLSLogging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSLogging.h; path = iOS/Crashlytics.framework/Headers/CLSLogging.h; sourceTree = "<group>"; };
 		C6DDFACCC199917D3F00AB8F057DABDC /* Pods-NesteBalticsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBalticsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C96BFEC3F7FFA5EFAFA46881813994FE /* CLSLogging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSLogging.h; path = iOS/Crashlytics.framework/Headers/CLSLogging.h; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CCD2D0589BFAF5592E9D2351DC29C1C6 /* Pods-NesteBaltics.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-NesteBaltics.modulemap"; sourceTree = "<group>"; };
+		D0FFC89D7CEFDCD2B4F52FFF42E1B0CE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2CBA69195237D90250661C5CE45782E /* Pods-NesteBalticsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBalticsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		D41A0896815AD91E9BE0E6CC3E28AB89 /* Pods-NesteBalticsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBalticsTests.release.xcconfig"; sourceTree = "<group>"; };
 		DA00B69C79AA4CAE66A8FC7CEC0F7F64 /* Pods-NesteBalticsTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NesteBalticsTests-dummy.m"; sourceTree = "<group>"; };
-		DB88C05794EDACA1066718E77A376416 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = Maps/Frameworks/GoogleMaps.framework; sourceTree = "<group>"; };
+		DCF26395A204D6FAEBFFE3A405B6DED8 /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
+		E03B514E66913AA3AD6DA79A667B5FE2 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		E2049A9D0A963459A80382273AF90CDA /* Crashlytics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Crashlytics.h; path = iOS/Crashlytics.framework/Headers/Crashlytics.h; sourceTree = "<group>"; };
 		E2BB3D4B1BF7383702FAA9425E86C277 /* Pods-NesteBalticsTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-NesteBalticsTests.modulemap"; sourceTree = "<group>"; };
-		EFD8BF6B82FBBAF5F481CBF85A8C3C15 /* GooglePlaces.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GooglePlaces.bundle; path = Frameworks/GooglePlaces.framework/Versions/A/Resources/GooglePlaces.bundle; sourceTree = "<group>"; };
+		EB171CBF5FC92CFAC9130C07F328A04D /* ANSCompatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ANSCompatibility.h; path = iOS/Crashlytics.framework/Headers/ANSCompatibility.h; sourceTree = "<group>"; };
 		F20E7E6BCCB4D572DED631932CC02B26 /* Pods-NesteBalticsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NesteBalticsUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -90,39 +112,45 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B8902BA261195F034D6B0438E17C4B8E /* Frameworks */ = {
+		A8D2A117A7FDD3A300BA5F23D7E3FC98 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				541DC8FB37A8A84A81E7DD37EDCB7375 /* Foundation.framework in Frameworks */,
+				F7DE3E1B9C3E0E3076B4E0A28319877F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E0EA071BC13DF52163C29542A342B52C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5EC01E53265D573EFD12ADA1F34DFD3 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0E114E680A78A7D9EFF9B60A89404710 /* Frameworks */ = {
+		23F3998EEF7A0DCC95DBD56B3A47DC18 /* SwiftyJSON */ = {
 			isa = PBXGroup;
 			children = (
-				1BED4FE17992B8F7C923ADC3E52B8928 /* Fabric.framework */,
+				4C754E8050D4897759F9619522F149F8 /* SwiftyJSON.swift */,
+				538F342CD48316D3B593D1DA941CE107 /* Support Files */,
 			);
-			name = Frameworks;
+			name = SwiftyJSON;
+			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
-		17E1FB408CE7079B8C560F3BC8D1FA3C /* Crashlytics */ = {
+		247EFE446C2F897F2CA9EDF1C9835A41 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				5990389BF5B1ED0004195CF5F76D60FE /* ANSCompatibility.h */,
-				B5A63728EC3DE3F47E9DCB47275DCC99 /* Answers.h */,
-				625D64347692645170E929FC852C8A2E /* CLSAttributes.h */,
-				C2723A0E9B3B8FE4DAD2F2554DCDFBB9 /* CLSLogging.h */,
-				075A48FFF0DADC8D56ACF51BE14691BC /* CLSReport.h */,
-				1931F896E86F32A73B4456F1D81C9056 /* CLSStackFrame.h */,
-				ABD4490FFDC8C879E66C18CEA1886AE5 /* Crashlytics.h */,
-				381DA3ACD018B7AC393095F47A1AB144 /* Frameworks */,
+				734E327CE561BBF6E5C192DA13EA9A1B /* Crashlytics */,
+				7DC7BC1767D90251A1FA0855C9EE91AB /* Fabric */,
+				2BB3C7C209CC31EEEEF9E87E2CFC1A3B /* GoogleMaps */,
+				DF4EF89440B10B0214401B742202379D /* GooglePlaces */,
+				23F3998EEF7A0DCC95DBD56B3A47DC18 /* SwiftyJSON */,
 			);
-			name = Crashlytics;
-			path = Crashlytics;
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		266D56818D514B4E99387687A37A4355 /* Targets Support Files */ = {
@@ -135,49 +163,45 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		381DA3ACD018B7AC393095F47A1AB144 /* Frameworks */ = {
+		2BB3C7C209CC31EEEEF9E87E2CFC1A3B /* GoogleMaps */ = {
 			isa = PBXGroup;
 			children = (
-				941545F22D61C69F9042B7673BAE7D5E /* Crashlytics.framework */,
+				770332C4A15AEB00314FA73F7B4825BC /* Base */,
+				672DC77B34371A5CBD5CB79CFB1C6D80 /* Maps */,
 			);
-			name = Frameworks;
+			name = GoogleMaps;
+			path = GoogleMaps;
 			sourceTree = "<group>";
 		};
-		3EAD78F2FEB0B8564F155B2032FF6974 /* Fabric */ = {
+		538F342CD48316D3B593D1DA941CE107 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				71B766AB406807BD42C2140A75F69795 /* FABAttributes.h */,
-				14E0F5F25BC451C03CB0F916F78F6FD4 /* Fabric.h */,
-				0E114E680A78A7D9EFF9B60A89404710 /* Frameworks */,
+				D0FFC89D7CEFDCD2B4F52FFF42E1B0CE /* Info.plist */,
+				7928FD78045F27EAF45464772B8C2DCB /* SwiftyJSON.modulemap */,
+				DCF26395A204D6FAEBFFE3A405B6DED8 /* SwiftyJSON.xcconfig */,
+				68D660F7D1C38CFD8EAC82D078BB3BAC /* SwiftyJSON-dummy.m */,
+				B6E98BC74FA58C67F81088946438F5B3 /* SwiftyJSON-prefix.pch */,
+				E03B514E66913AA3AD6DA79A667B5FE2 /* SwiftyJSON-umbrella.h */,
 			);
-			name = Fabric;
-			path = Fabric;
+			name = "Support Files";
+			path = "../Target Support Files/SwiftyJSON";
 			sourceTree = "<group>";
 		};
-		407CF3D98711FF66C91783F44C13B3E5 /* Frameworks */ = {
+		640D42ED0EBCEBED5D8C5D802DED97A7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				ACC3D95F94F7011467DE6B5BC620A84F /* GooglePlaces.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		51C26D33CEA2F887DB4EF5200EB66F8C /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				EFD8BF6B82FBBAF5F481CBF85A8C3C15 /* GooglePlaces.bundle */,
+				57FC53C49BF928523FB58B08B7373584 /* GooglePlaces.bundle */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		6A2DB66CC8E19483734898C2FDFD4986 /* GoogleMaps */ = {
+		672DC77B34371A5CBD5CB79CFB1C6D80 /* Maps */ = {
 			isa = PBXGroup;
 			children = (
-				C9169C15739FD98D6F593170ED26E915 /* Base */,
-				F0D3913A2AE310CFE01C99F48457EAA2 /* Maps */,
+				BBE16C2306C7A06218CB27015D73DB88 /* Frameworks */,
+				A71D7559BE79621A9F9ADAB821560B39 /* Resources */,
 			);
-			name = GoogleMaps;
-			path = GoogleMaps;
+			name = Maps;
 			sourceTree = "<group>";
 		};
 		712D694AA536E583F5194A8CF8B6FD34 /* Pods-NesteBaltics */ = {
@@ -198,6 +222,22 @@
 			path = "Target Support Files/Pods-NesteBaltics";
 			sourceTree = "<group>";
 		};
+		734E327CE561BBF6E5C192DA13EA9A1B /* Crashlytics */ = {
+			isa = PBXGroup;
+			children = (
+				EB171CBF5FC92CFAC9130C07F328A04D /* ANSCompatibility.h */,
+				1880C993876F43C6776AC058AB871BB9 /* Answers.h */,
+				7AC1DBD63F988E1FDA215FF6C32B0B11 /* CLSAttributes.h */,
+				C96BFEC3F7FFA5EFAFA46881813994FE /* CLSLogging.h */,
+				71A85185EFFE580723C7C5F3E6E0F6D7 /* CLSReport.h */,
+				189E4D168DBE749B256B0CE280DD5B5F /* CLSStackFrame.h */,
+				E2049A9D0A963459A80382273AF90CDA /* Crashlytics.h */,
+				7ECD5AD2A0AFAEA49CA751331EA7C342 /* Frameworks */,
+			);
+			name = Crashlytics;
+			path = Crashlytics;
+			sourceTree = "<group>";
+		};
 		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -206,15 +246,42 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		770332C4A15AEB00314FA73F7B4825BC /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				B97844118463AEE9E7D3DF12ABE5C083 /* Frameworks */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				9591DCEF3414DDD17F89C8D63E0F7EE5 /* Pods */,
-				ACD367CBA83AA77AF5C7F11F1EC42AE2 /* Products */,
+				247EFE446C2F897F2CA9EDF1C9835A41 /* Pods */,
+				9A07619D6AF95CBD8F220330FDC6AFE9 /* Products */,
 				266D56818D514B4E99387687A37A4355 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		7DC7BC1767D90251A1FA0855C9EE91AB /* Fabric */ = {
+			isa = PBXGroup;
+			children = (
+				B3612D8054332746B00B3FE8214D59DA /* FABAttributes.h */,
+				4E0FE2E7893CFF7120A3D3B568C89851 /* Fabric.h */,
+				CE0AF268AE7B381BAE23749610888BC6 /* Frameworks */,
+			);
+			name = Fabric;
+			path = Fabric;
+			sourceTree = "<group>";
+		};
+		7ECD5AD2A0AFAEA49CA751331EA7C342 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7C2908718250E9A8C4E9BF61EAA8C31A /* Crashlytics.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		829C2455B667C50A7278E3AA59264364 /* Pods-NesteBalticsUITests */ = {
@@ -235,47 +302,54 @@
 			path = "Target Support Files/Pods-NesteBalticsUITests";
 			sourceTree = "<group>";
 		};
-		9591DCEF3414DDD17F89C8D63E0F7EE5 /* Pods */ = {
+		9A07619D6AF95CBD8F220330FDC6AFE9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				17E1FB408CE7079B8C560F3BC8D1FA3C /* Crashlytics */,
-				3EAD78F2FEB0B8564F155B2032FF6974 /* Fabric */,
-				6A2DB66CC8E19483734898C2FDFD4986 /* GoogleMaps */,
-				D1023FBB4CC87653EDE1036B9312B60E /* GooglePlaces */,
+				17D70CFF7FE1D193A05DF55144A5A71F /* Pods_NesteBaltics.framework */,
+				8BBE31CA011E43316BACE6CD9F67B320 /* Pods_NesteBalticsTests.framework */,
+				7E001A1A97A4D731990F14404DAD859F /* Pods_NesteBalticsUITests.framework */,
+				B689111D89E163E4958D01287B6608FF /* SwiftyJSON.framework */,
 			);
-			name = Pods;
+			name = Products;
 			sourceTree = "<group>";
 		};
-		9A0F0870B3682C7962CD351490B56E0E /* Resources */ = {
+		A71D7559BE79621A9F9ADAB821560B39 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5450CC0CBE68FA148D9F98773FE30EDC /* GoogleMaps.bundle */,
+				AB4110417B45E80E04D0322425380C75 /* GoogleMaps.bundle */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		AAD9B70DF35E9F691106DFEB8B6EC70F /* Frameworks */ = {
+		B97844118463AEE9E7D3DF12ABE5C083 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				6EEF4F66A1986D978F8D7E30B20F3261 /* GoogleMapsBase.framework */,
+				92574397B0DE49D7656DD82DA91F66C8 /* GoogleMapsBase.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		ACD367CBA83AA77AF5C7F11F1EC42AE2 /* Products */ = {
+		BBE16C2306C7A06218CB27015D73DB88 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				64B0C8AFFFD3DD17BD073BBD2BA8C25B /* Pods_NesteBaltics.framework */,
-				60259730F1E1C53EF6B85AD7A3DFF7E1 /* Pods_NesteBalticsTests.framework */,
-				AB41ECDE23A41F1DA5602B9E07199A1A /* Pods_NesteBalticsUITests.framework */,
+				BAD3D9DE1F3BE6FCCC2C8F838A176B40 /* GoogleMaps.framework */,
+				82AF205B217938A5650724768425C618 /* GoogleMapsCore.framework */,
 			);
-			name = Products;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BD96B578EA2AA08A0738FA0F2DC9D41E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				808F7C1E565F2BFF3BF97622C71BF991 /* GooglePlaces.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -298,50 +372,32 @@
 			path = "Target Support Files/Pods-NesteBalticsTests";
 			sourceTree = "<group>";
 		};
-		C9169C15739FD98D6F593170ED26E915 /* Base */ = {
+		CE0AF268AE7B381BAE23749610888BC6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				AAD9B70DF35E9F691106DFEB8B6EC70F /* Frameworks */,
+				1953E373F59949192508CF544C2FA7F5 /* Fabric.framework */,
 			);
-			name = Base;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D1023FBB4CC87653EDE1036B9312B60E /* GooglePlaces */ = {
+		DF4EF89440B10B0214401B742202379D /* GooglePlaces */ = {
 			isa = PBXGroup;
 			children = (
-				407CF3D98711FF66C91783F44C13B3E5 /* Frameworks */,
-				51C26D33CEA2F887DB4EF5200EB66F8C /* Resources */,
+				BD96B578EA2AA08A0738FA0F2DC9D41E /* Frameworks */,
+				640D42ED0EBCEBED5D8C5D802DED97A7 /* Resources */,
 			);
 			name = GooglePlaces;
 			path = GooglePlaces;
 			sourceTree = "<group>";
 		};
-		D3ECF8E2FBFE7B4537AA3099FDF95ABC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				DB88C05794EDACA1066718E77A376416 /* GoogleMaps.framework */,
-				75E427567B109A7640E193BF3119FA78 /* GoogleMapsCore.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		F0D3913A2AE310CFE01C99F48457EAA2 /* Maps */ = {
-			isa = PBXGroup;
-			children = (
-				D3ECF8E2FBFE7B4537AA3099FDF95ABC /* Frameworks */,
-				9A0F0870B3682C7962CD351490B56E0E /* Resources */,
-			);
-			name = Maps;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		26407F03D0EE49293DE5327037EE6B41 /* Headers */ = {
+		A3532A18513254ABFD1FCDFBD20D68F4 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFF1737BF0889D68E08868B719DBFC1B /* Pods-NesteBaltics-umbrella.h in Headers */,
+				68FC3851117D5A65A6B26B57C0EB8A56 /* SwiftyJSON-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,6 +406,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE2E58D451806A461DBD91986BC1B4C7 /* Pods-NesteBalticsTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B03F1ECAAA90ACFD44B6F7E84E3FD4AF /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78A8CD2F88EB3F08E3B944400FB63631 /* Pods-NesteBaltics-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,7 +442,25 @@
 			);
 			name = "Pods-NesteBalticsTests";
 			productName = "Pods-NesteBalticsTests";
-			productReference = 60259730F1E1C53EF6B85AD7A3DFF7E1 /* Pods_NesteBalticsTests.framework */;
+			productReference = 8BBE31CA011E43316BACE6CD9F67B320 /* Pods_NesteBalticsTests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		7CBC97BF0A0371D5519B220CABE09202 /* Pods-NesteBaltics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B0DFDF335707CF30D6D2A28CE7093CDD /* Build configuration list for PBXNativeTarget "Pods-NesteBaltics" */;
+			buildPhases = (
+				14B2EABD733907D64C22B0789627725E /* Sources */,
+				E0EA071BC13DF52163C29542A342B52C /* Frameworks */,
+				B03F1ECAAA90ACFD44B6F7E84E3FD4AF /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CFDD3DB809248B7419873396B1FAFB15 /* PBXTargetDependency */,
+			);
+			name = "Pods-NesteBaltics";
+			productName = "Pods-NesteBaltics";
+			productReference = 17D70CFF7FE1D193A05DF55144A5A71F /* Pods_NesteBaltics.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		834390272E0FEB576FB2673DDC4EBF23 /* Pods-NesteBalticsUITests */ = {
@@ -395,24 +477,24 @@
 			);
 			name = "Pods-NesteBalticsUITests";
 			productName = "Pods-NesteBalticsUITests";
-			productReference = AB41ECDE23A41F1DA5602B9E07199A1A /* Pods_NesteBalticsUITests.framework */;
+			productReference = 7E001A1A97A4D731990F14404DAD859F /* Pods_NesteBalticsUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		9522D92A6B89AE5ABFEFC9EC35015C24 /* Pods-NesteBaltics */ = {
+		ED9115C5F7264774AE1B5F26B161866D /* SwiftyJSON */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7E79643E1FBCD8266B31710301B0C4B5 /* Build configuration list for PBXNativeTarget "Pods-NesteBaltics" */;
+			buildConfigurationList = AD50BB3F4DC2AC5DC0194DED0FCE8949 /* Build configuration list for PBXNativeTarget "SwiftyJSON" */;
 			buildPhases = (
-				01236CB9DE3EBCF26E5C5BD7E88B44EC /* Sources */,
-				B8902BA261195F034D6B0438E17C4B8E /* Frameworks */,
-				26407F03D0EE49293DE5327037EE6B41 /* Headers */,
+				6475093DDDFF5B34767A829F4554B24E /* Sources */,
+				A8D2A117A7FDD3A300BA5F23D7E3FC98 /* Frameworks */,
+				A3532A18513254ABFD1FCDFBD20D68F4 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-NesteBaltics";
-			productName = "Pods-NesteBaltics";
-			productReference = 64B0C8AFFFD3DD17BD073BBD2BA8C25B /* Pods_NesteBaltics.framework */;
+			name = SwiftyJSON;
+			productName = SwiftyJSON;
+			productReference = B689111D89E163E4958D01287B6608FF /* SwiftyJSON.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -432,23 +514,33 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = ACD367CBA83AA77AF5C7F11F1EC42AE2 /* Products */;
+			productRefGroup = 9A07619D6AF95CBD8F220330FDC6AFE9 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9522D92A6B89AE5ABFEFC9EC35015C24 /* Pods-NesteBaltics */,
+				7CBC97BF0A0371D5519B220CABE09202 /* Pods-NesteBaltics */,
 				3381ECA2AC3AEFE3A9850519D93EFD42 /* Pods-NesteBalticsTests */,
 				834390272E0FEB576FB2673DDC4EBF23 /* Pods-NesteBalticsUITests */,
+				ED9115C5F7264774AE1B5F26B161866D /* SwiftyJSON */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		01236CB9DE3EBCF26E5C5BD7E88B44EC /* Sources */ = {
+		14B2EABD733907D64C22B0789627725E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DDE9D67459EECCD9CF29E91A0542F5D2 /* Pods-NesteBaltics-dummy.m in Sources */,
+				C7EA8452C6761D3B1892E06C98C1DF52 /* Pods-NesteBaltics-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6475093DDDFF5B34767A829F4554B24E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				036F1F6A2E2D550C24BAFEB9180CA471 /* SwiftyJSON-dummy.m in Sources */,
+				16FAA23F1EB9460240EA8EB2033A9A00 /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,16 +562,25 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		CFDD3DB809248B7419873396B1FAFB15 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftyJSON;
+			target = ED9115C5F7264774AE1B5F26B161866D /* SwiftyJSON */;
+			targetProxy = CD6C463B905865FD946BDFC23408DB96 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
-		20A516403BF7F04E6579E9A116DF2671 /* Release */ = {
+		1F377DF3C6D3DEDE5EE5E04C2AC1F469 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 56633897CBCD94E87C4058377BD6CAB1 /* Pods-NesteBaltics.release.xcconfig */;
+			baseConfigurationReference = 5BF864EB0AD39CEA9502BD326473B495 /* Pods-NesteBaltics.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -492,7 +593,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-NesteBaltics/Pods-NesteBaltics.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -500,11 +601,12 @@
 				PRODUCT_NAME = Pods_NesteBaltics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		2D0313B5B4E6E34DD33B5F68E754BB92 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -533,6 +635,41 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Pods_NesteBalticsTests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3040703F2A1F5E26D9CC52A91EE61EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56633897CBCD94E87C4058377BD6CAB1 /* Pods-NesteBaltics.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-NesteBaltics/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NesteBaltics/Pods-NesteBaltics.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_NesteBaltics;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -620,6 +757,39 @@
 			};
 			name = Release;
 		};
+		5A353C84DE303BA200B29A50E03E41CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DCF26395A204D6FAEBFFE3A405B6DED8 /* SwiftyJSON.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		6F0E2D45994AE1787023A8BCEAACBA89 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D2CBA69195237D90250661C5CE45782E /* Pods-NesteBalticsUITests.debug.xcconfig */;
@@ -690,41 +860,6 @@
 			};
 			name = Debug;
 		};
-		8BBFF16A619CB00585A841FC2C30DC5B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5BF864EB0AD39CEA9502BD326473B495 /* Pods-NesteBaltics.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-NesteBaltics/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-NesteBaltics/Pods-NesteBaltics.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_NesteBaltics;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		B7324857C38B065FEB1EEE3105C2367A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -765,6 +900,38 @@
 			};
 			name = Release;
 		};
+		BB086B003A5DE892A9AC3F07FFC10B5A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DCF26395A204D6FAEBFFE3A405B6DED8 /* SwiftyJSON.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -786,11 +953,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7E79643E1FBCD8266B31710301B0C4B5 /* Build configuration list for PBXNativeTarget "Pods-NesteBaltics" */ = {
+		AD50BB3F4DC2AC5DC0194DED0FCE8949 /* Build configuration list for PBXNativeTarget "SwiftyJSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8BBFF16A619CB00585A841FC2C30DC5B /* Debug */,
-				20A516403BF7F04E6579E9A116DF2671 /* Release */,
+				5A353C84DE303BA200B29A50E03E41CF /* Debug */,
+				BB086B003A5DE892A9AC3F07FFC10B5A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B0DFDF335707CF30D6D2A28CE7093CDD /* Build configuration list for PBXNativeTarget "Pods-NesteBaltics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1F377DF3C6D3DEDE5EE5E04C2AC1F469 /* Debug */,
+				3040703F2A1F5E26D9CC52A91EE61EFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
