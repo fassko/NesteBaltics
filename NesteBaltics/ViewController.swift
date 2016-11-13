@@ -48,6 +48,7 @@ class ViewController: UIViewController {
             let marker = GMSMarker(position: position)
             marker.title = station["name"].stringValue
             marker.snippet = station["fuel"]["Tuotteisto"].stringValue
+            marker.icon = UIImage(named: "station")
             marker.map = mapView
           }
         }

@@ -9,12 +9,13 @@ target 'NesteBaltics' do
   pod 'Fabric'
   pod 'Crashlytics'
   pod 'SwiftyJSON'
+  
 
   target 'NesteBalticsTests' do
     inherit! :search_paths
     # Pods for testing
   end
-
+  
   target 'NesteBalticsUITests' do
     inherit! :search_paths
     # Pods for testing
