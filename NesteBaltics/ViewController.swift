@@ -11,7 +11,8 @@ import GoogleMaps
 import SwiftyJSON
 
 class ViewController: UIViewController {
-
+  
+  /// Google Maps view
   var mapView:GMSMapView?
 
   override func viewDidLoad() {
@@ -33,6 +34,9 @@ class ViewController: UIViewController {
   }
   
   
+  /**
+    Show Neste Baltics stations
+  */
   func showStations() {
     if let path = Bundle.main.url(forResource: "data", withExtension: "json") {
     
@@ -48,6 +52,7 @@ class ViewController: UIViewController {
             let marker = GMSMarker(position: position)
             marker.title = station["name"].stringValue
             marker.snippet = station["fuel"]["Tuotteisto"].stringValue
+            marker.icon = UIImage(named: "marker")
             marker.map = mapView
           }
         }

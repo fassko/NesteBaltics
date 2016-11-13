@@ -10,6 +10,14 @@
 		121CBE9AF823DDB9B3828CDE /* Pods_NesteBalticsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 432096A473582079D8DF8687 /* Pods_NesteBalticsUITests.framework */; };
 		57E96BB0D34424267506C46F /* Pods_NesteBaltics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8AD3696D532C67CE67AA8D20 /* Pods_NesteBaltics.framework */; };
 		635C48F51DD8C444000EBE58 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 635C48F41DD8C444000EBE58 /* data.json */; };
+		635C48FF1DD8D3F0000EBE58 /* station.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C48FD1DD8D3F0000EBE58 /* station.png */; };
+		635C49001DD8D3F0000EBE58 /* station@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C48FE1DD8D3F0000EBE58 /* station@2x.png */; };
+		635C490D1DD8D5C8000EBE58 /* neste-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490A1DD8D5C8000EBE58 /* neste-logo.png */; };
+		635C490E1DD8D5C8000EBE58 /* neste-logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490B1DD8D5C8000EBE58 /* neste-logo@2x.png */; };
+		635C490F1DD8D5C8000EBE58 /* neste-logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490C1DD8D5C8000EBE58 /* neste-logo@3x.png */; };
+		635C49131DD8D785000EBE58 /* marker.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49101DD8D785000EBE58 /* marker.png */; };
+		635C49141DD8D785000EBE58 /* marker@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49111DD8D785000EBE58 /* marker@2x.png */; };
+		635C49151DD8D785000EBE58 /* marker@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49121DD8D785000EBE58 /* marker@3x.png */; };
 		63C1EB621DD8B69F00CF6986 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C1EB611DD8B69F00CF6986 /* AppDelegate.swift */; };
 		63C1EB641DD8B69F00CF6986 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C1EB631DD8B69F00CF6986 /* ViewController.swift */; };
 		63C1EB671DD8B69F00CF6986 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C1EB651DD8B69F00CF6986 /* Main.storyboard */; };
@@ -41,6 +49,14 @@
 		0D2842D16A4F4CE9BAEE338A /* Pods-NesteBalticsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NesteBalticsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NesteBalticsTests/Pods-NesteBalticsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		432096A473582079D8DF8687 /* Pods_NesteBalticsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NesteBalticsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		635C48F41DD8C444000EBE58 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = data.json; path = parser/data.json; sourceTree = SOURCE_ROOT; };
+		635C48FD1DD8D3F0000EBE58 /* station.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = station.png; sourceTree = SOURCE_ROOT; };
+		635C48FE1DD8D3F0000EBE58 /* station@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "station@2x.png"; sourceTree = SOURCE_ROOT; };
+		635C490A1DD8D5C8000EBE58 /* neste-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo.png"; sourceTree = SOURCE_ROOT; };
+		635C490B1DD8D5C8000EBE58 /* neste-logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo@2x.png"; sourceTree = SOURCE_ROOT; };
+		635C490C1DD8D5C8000EBE58 /* neste-logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo@3x.png"; sourceTree = SOURCE_ROOT; };
+		635C49101DD8D785000EBE58 /* marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marker.png; sourceTree = SOURCE_ROOT; };
+		635C49111DD8D785000EBE58 /* marker@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marker@2x.png"; sourceTree = SOURCE_ROOT; };
+		635C49121DD8D785000EBE58 /* marker@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marker@3x.png"; sourceTree = SOURCE_ROOT; };
 		63C1EB5E1DD8B69F00CF6986 /* NesteBaltics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NesteBaltics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C1EB611DD8B69F00CF6986 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63C1EB631DD8B69F00CF6986 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +107,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		635C49091DD8D587000EBE58 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				635C49101DD8D785000EBE58 /* marker.png */,
+				635C49111DD8D785000EBE58 /* marker@2x.png */,
+				635C49121DD8D785000EBE58 /* marker@3x.png */,
+				635C48FD1DD8D3F0000EBE58 /* station.png */,
+				635C48FE1DD8D3F0000EBE58 /* station@2x.png */,
+				635C490A1DD8D5C8000EBE58 /* neste-logo.png */,
+				635C490B1DD8D5C8000EBE58 /* neste-logo@2x.png */,
+				635C490C1DD8D5C8000EBE58 /* neste-logo@3x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		63C1EB551DD8B69F00CF6986 = {
 			isa = PBXGroup;
 			children = (
@@ -123,6 +154,7 @@
 				63C1EB6A1DD8B69F00CF6986 /* LaunchScreen.storyboard */,
 				63C1EB6D1DD8B69F00CF6986 /* Info.plist */,
 				635C48F41DD8C444000EBE58 /* data.json */,
+				635C49091DD8D587000EBE58 /* Images */,
 			);
 			path = NesteBaltics;
 			sourceTree = "<group>";
@@ -181,6 +213,7 @@
 				63C1EB5C1DD8B69F00CF6986 /* Resources */,
 				01524B6DFFAFCC1C127269CA /* [CP] Embed Pods Frameworks */,
 				B49BB12C1A2A0644B793979C /* [CP] Copy Pods Resources */,
+				635C48F81DD8CBE4000EBE58 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -287,10 +320,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				635C490D1DD8D5C8000EBE58 /* neste-logo.png in Resources */,
+				635C49151DD8D785000EBE58 /* marker@3x.png in Resources */,
+				635C49131DD8D785000EBE58 /* marker.png in Resources */,
+				635C49141DD8D785000EBE58 /* marker@2x.png in Resources */,
+				635C490F1DD8D5C8000EBE58 /* neste-logo@3x.png in Resources */,
 				63C1EB6C1DD8B69F00CF6986 /* LaunchScreen.storyboard in Resources */,
+				635C49001DD8D3F0000EBE58 /* station@2x.png in Resources */,
+				635C490E1DD8D5C8000EBE58 /* neste-logo@2x.png in Resources */,
 				63C1EB691DD8B69F00CF6986 /* Assets.xcassets in Resources */,
 				63C1EB671DD8B69F00CF6986 /* Main.storyboard in Resources */,
 				635C48F51DD8C444000EBE58 /* data.json in Resources */,
+				635C48FF1DD8D3F0000EBE58 /* station.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -370,6 +411,19 @@
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
+		};
+		635C48F81DD8CBE4000EBE58 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Fabric/run\" 34be06edc6f733a743335744b07a23f6a3e5b344 a9207ff06b3417aa4bf8c6408432761ca87c5b52dca8f2365b133eea61d407cc";
 		};
 		6A6CEDB9A3FD898AB55EA4A6 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
