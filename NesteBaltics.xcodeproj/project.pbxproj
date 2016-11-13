@@ -15,6 +15,9 @@
 		635C490D1DD8D5C8000EBE58 /* neste-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490A1DD8D5C8000EBE58 /* neste-logo.png */; };
 		635C490E1DD8D5C8000EBE58 /* neste-logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490B1DD8D5C8000EBE58 /* neste-logo@2x.png */; };
 		635C490F1DD8D5C8000EBE58 /* neste-logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C490C1DD8D5C8000EBE58 /* neste-logo@3x.png */; };
+		635C49131DD8D785000EBE58 /* marker.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49101DD8D785000EBE58 /* marker.png */; };
+		635C49141DD8D785000EBE58 /* marker@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49111DD8D785000EBE58 /* marker@2x.png */; };
+		635C49151DD8D785000EBE58 /* marker@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 635C49121DD8D785000EBE58 /* marker@3x.png */; };
 		63C1EB621DD8B69F00CF6986 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C1EB611DD8B69F00CF6986 /* AppDelegate.swift */; };
 		63C1EB641DD8B69F00CF6986 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C1EB631DD8B69F00CF6986 /* ViewController.swift */; };
 		63C1EB671DD8B69F00CF6986 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C1EB651DD8B69F00CF6986 /* Main.storyboard */; };
@@ -51,6 +54,9 @@
 		635C490A1DD8D5C8000EBE58 /* neste-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo.png"; sourceTree = SOURCE_ROOT; };
 		635C490B1DD8D5C8000EBE58 /* neste-logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo@2x.png"; sourceTree = SOURCE_ROOT; };
 		635C490C1DD8D5C8000EBE58 /* neste-logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "neste-logo@3x.png"; sourceTree = SOURCE_ROOT; };
+		635C49101DD8D785000EBE58 /* marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = marker.png; sourceTree = SOURCE_ROOT; };
+		635C49111DD8D785000EBE58 /* marker@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marker@2x.png"; sourceTree = SOURCE_ROOT; };
+		635C49121DD8D785000EBE58 /* marker@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marker@3x.png"; sourceTree = SOURCE_ROOT; };
 		63C1EB5E1DD8B69F00CF6986 /* NesteBaltics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NesteBaltics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C1EB611DD8B69F00CF6986 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63C1EB631DD8B69F00CF6986 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -104,6 +110,9 @@
 		635C49091DD8D587000EBE58 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				635C49101DD8D785000EBE58 /* marker.png */,
+				635C49111DD8D785000EBE58 /* marker@2x.png */,
+				635C49121DD8D785000EBE58 /* marker@3x.png */,
 				635C48FD1DD8D3F0000EBE58 /* station.png */,
 				635C48FE1DD8D3F0000EBE58 /* station@2x.png */,
 				635C490A1DD8D5C8000EBE58 /* neste-logo.png */,
@@ -312,6 +321,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				635C490D1DD8D5C8000EBE58 /* neste-logo.png in Resources */,
+				635C49151DD8D785000EBE58 /* marker@3x.png in Resources */,
+				635C49131DD8D785000EBE58 /* marker.png in Resources */,
+				635C49141DD8D785000EBE58 /* marker@2x.png in Resources */,
 				635C490F1DD8D5C8000EBE58 /* neste-logo@3x.png in Resources */,
 				63C1EB6C1DD8B69F00CF6986 /* LaunchScreen.storyboard in Resources */,
 				635C49001DD8D3F0000EBE58 /* station@2x.png in Resources */,
