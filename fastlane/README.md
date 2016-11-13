@@ -6,11 +6,6 @@ sudo gem install fastlane
 ```
 # Available Actions
 ## iOS
-### ios test
-```
-fastlane ios test
-```
-Runs all the tests
 ### ios certificates
 ```
 fastlane ios certificates
@@ -28,6 +23,16 @@ This will also make sure the profile is up to date
 fastlane ios release
 ```
 Deploy a new version to the App Store
+### ios travis
+```
+fastlane ios travis
+```
+Travis lane
+### ios test
+```
+fastlane ios test
+```
+Runs all the tests
 
 ----
 
